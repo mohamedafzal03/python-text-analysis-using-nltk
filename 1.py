@@ -1,0 +1,2 @@
+plot(arange(5))
+
